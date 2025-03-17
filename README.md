@@ -16,7 +16,7 @@ This project is designed to manage user data, including usernames, emails, and s
 
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
-3. Create a `.env` file and add your MongoDB URI and JWT secret.
+3. Create a `.env` file and add your MongoDB URI, JWT secret and port number.
 4. Run `node index.js` to start the server.
 5. Use Postman to test the API endpoints.
 
